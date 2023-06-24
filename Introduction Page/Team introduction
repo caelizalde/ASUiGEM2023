@@ -89,6 +89,28 @@ background-size: cover;
       <div class = "text">
         <p>Niam LeStourgeon is a Biomedical Engineering major. During his free time he enjoys playing volleyball and reading.</p>
       </div>
-    </div>    
+    </div> 
+    <br>
+    <br>
+<div class="container">
+      <div class="image">
+        <img src=https://images.pexels.com/photos/1444321/pexels-photo-1444321.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 alt = "Anwar Gadhi Picture">
+      </div>
+      <div class="text">
+        <p>Anwar Gadhi is a non-degree seeking graduate student and team lead for the Environment team. Outside of work he works at Dexcom and ice skates.</p>
+    </div>
+    </div>
+    <br>
+    <br>
+<div class="container">
+            <div class="image">
+              <img src="Placeholder" alt = "Brianna Branson Picture">
+            </div>
+            <div class="text">
+              <p>Brianna Branson is a US Navy Veteran and Biomedical Engineering sophomore. Her free time involves cycling, board games, and DnD!</p>
+            </div>
+          </div>
+        <br>
+        <br>
      </body>
  </html>
